@@ -43,3 +43,5 @@ I am Nrup Parikh, Born in India, and passoniate about new technologies. I am kee
 ------
 ### ⚡Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NrupParikh&layout=compact&theme=vision-friendly-dark)](https://github.com/NrupParikh/github-readme-stats)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
