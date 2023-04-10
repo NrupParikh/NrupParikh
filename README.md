@@ -33,5 +33,10 @@ I am Nrup Parikh, Born in India, and passoniate about new technologies. I am kee
 </div>
 
 ------
-### ⚡Github States :
+### :fire: My Github Stats :
 ![Nrup's GitHub stats](https://github-readme-stats.vercel.app/api?username=NrupParikh&theme=dark&show_icons=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NrupParikh&theme=dark)](https://git.io/streak-stats)
+
+### ⚡Top Langs :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NrupParikh&layout=compact&theme=vision-friendly-dark)](https://github.com/NrupParikh/github-readme-stats)
